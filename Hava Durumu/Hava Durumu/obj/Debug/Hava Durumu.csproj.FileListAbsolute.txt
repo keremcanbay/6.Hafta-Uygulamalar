@@ -1,0 +1,6 @@
+C:\Users\yigit\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Hava Durumu.exe.config
+C:\Users\yigit\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Hava Durumu.exe
+C:\Users\yigit\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Hava Durumu.pdb
+C:\Users\yigit\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.exe
+C:\Users\yigit\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.pdb

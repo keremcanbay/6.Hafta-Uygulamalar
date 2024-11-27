@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35213.121
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hava Durumu", "Hava Durumu\Hava Durumu.csproj", "{0D57343D-804F-4458-91CA-55ACC48722BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D57343D-804F-4458-91CA-55ACC48722BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D57343D-804F-4458-91CA-55ACC48722BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D57343D-804F-4458-91CA-55ACC48722BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D57343D-804F-4458-91CA-55ACC48722BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC9D019-5245-49E6-9779-F3AFE2BDDB02}
+	EndGlobalSection
+EndGlobal

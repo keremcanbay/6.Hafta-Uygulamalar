@@ -1,0 +1,6 @@
+C:\Users\yigit\source\repos\GPS Konum Mesafesi\GPS Konum Mesafesi\bin\Debug\GPS Konum Mesafesi.exe.config
+C:\Users\yigit\source\repos\GPS Konum Mesafesi\GPS Konum Mesafesi\bin\Debug\GPS Konum Mesafesi.exe
+C:\Users\yigit\source\repos\GPS Konum Mesafesi\GPS Konum Mesafesi\bin\Debug\GPS Konum Mesafesi.pdb
+C:\Users\yigit\source\repos\GPS Konum Mesafesi\GPS Konum Mesafesi\obj\Debug\GPS Konum Mesafesi.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\GPS Konum Mesafesi\GPS Konum Mesafesi\obj\Debug\GPS Konum Mesafesi.exe
+C:\Users\yigit\source\repos\GPS Konum Mesafesi\GPS Konum Mesafesi\obj\Debug\GPS Konum Mesafesi.pdb

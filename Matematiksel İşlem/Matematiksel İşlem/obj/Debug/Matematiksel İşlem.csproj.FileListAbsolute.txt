@@ -1,0 +1,7 @@
+C:\Users\yigit\source\repos\Matematiksel İşlem\Matematiksel İşlem\bin\Debug\Matematiksel İşlem.exe.config
+C:\Users\yigit\source\repos\Matematiksel İşlem\Matematiksel İşlem\bin\Debug\Matematiksel İşlem.exe
+C:\Users\yigit\source\repos\Matematiksel İşlem\Matematiksel İşlem\bin\Debug\Matematiksel İşlem.pdb
+C:\Users\yigit\source\repos\Matematiksel İşlem\Matematiksel İşlem\obj\Debug\Matematiksel İşlem.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Matematiksel İşlem\Matematiksel İşlem\obj\Debug\Matematiksel İşlem.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Matematiksel İşlem\Matematiksel İşlem\obj\Debug\Matematiksel İşlem.exe
+C:\Users\yigit\source\repos\Matematiksel İşlem\Matematiksel İşlem\obj\Debug\Matematiksel İşlem.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35213.121
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Öğrenci Not Sistemi", "Öğrenci Not Sistemi\Öğrenci Not Sistemi.csproj", "{0F530DCC-CEF0-46EA-9DCF-DFFFAF17F018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F530DCC-CEF0-46EA-9DCF-DFFFAF17F018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F530DCC-CEF0-46EA-9DCF-DFFFAF17F018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F530DCC-CEF0-46EA-9DCF-DFFFAF17F018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F530DCC-CEF0-46EA-9DCF-DFFFAF17F018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6707EC2-E063-47C5-8EA3-68DCB0720880}
+	EndGlobalSection
+EndGlobal

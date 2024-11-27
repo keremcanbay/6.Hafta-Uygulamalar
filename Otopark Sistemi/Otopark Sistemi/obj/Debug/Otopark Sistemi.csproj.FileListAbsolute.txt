@@ -1,0 +1,6 @@
+C:\Users\yigit\source\repos\Otopark Sistemi\Otopark Sistemi\bin\Debug\Otopark Sistemi.exe.config
+C:\Users\yigit\source\repos\Otopark Sistemi\Otopark Sistemi\bin\Debug\Otopark Sistemi.exe
+C:\Users\yigit\source\repos\Otopark Sistemi\Otopark Sistemi\bin\Debug\Otopark Sistemi.pdb
+C:\Users\yigit\source\repos\Otopark Sistemi\Otopark Sistemi\obj\Debug\Otopark Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Otopark Sistemi\Otopark Sistemi\obj\Debug\Otopark Sistemi.exe
+C:\Users\yigit\source\repos\Otopark Sistemi\Otopark Sistemi\obj\Debug\Otopark Sistemi.pdb
